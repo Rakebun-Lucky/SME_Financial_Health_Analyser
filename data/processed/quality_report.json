@@ -1,0 +1,30 @@
+{
+  "total_tickers": 3,
+  "total_rows": 21,
+  "passed": [
+    "RMD.AX",
+    "EBR.AX",
+    "NWS.AX"
+  ],
+  "flagged_few_rows": [],
+  "flagged_missing": [],
+  "flagged_outliers": [],
+  "column_coverage": {
+    "current_ratio": 0.714,
+    "quick_ratio": 0.714,
+    "debt_to_equity": 0.714,
+    "operating_margin": 0.667,
+    "net_margin": 0.667,
+    "roe": 0.714,
+    "roa": 0.714,
+    "fcf_margin": 0.667,
+    "revenue_growth_yoy": 0.143,
+    "earnings_growth_yoy": 0.143
+  },
+  "summary": {
+    "pass_rate": 1.0,
+    "flagged_few_rows": 0,
+    "flagged_missing": 0,
+    "flagged_outliers": 0
+  }
+}
